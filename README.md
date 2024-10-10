@@ -27,7 +27,7 @@ pip install -r requirements.txt
 Once the dependencies are installed, open a terminal in the root directory of the project and run:
 
 ```sh
-streamlit run ai.py
+streamlit run main.py
 ```
 
 This command will launch the Streamlit server, and the chatbot interface will open in your default web browser.
