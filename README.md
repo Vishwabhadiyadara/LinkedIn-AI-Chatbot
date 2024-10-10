@@ -22,6 +22,8 @@ Install all the required Python packages from the `requirements.txt` file using 
 ```sh
 pip install -r requirements.txt
 ```
+## Note :Add your Scrap LinkedIn data in data folder 
+Before running the application make sure you add your data in data folder!!!.Currently it is using csv file.!
 
 ### Step 4: Run the Application
 Once the dependencies are installed, open a terminal in the root directory of the project and run:
