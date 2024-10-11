@@ -12,7 +12,7 @@ git clone https://github.com/Vishwabhadiyadara/LinkedIn-AI-Chatbot.git
 ```
 
 ### Step 2: Configure the Environment Variables
-After cloning, navigate to the root directory and edit the `.env` file. You will need to add your Groq API key to this file. If you do not have a Groq API key, you can obtain one for free. For assistance, watch the video below:
+After cloning, navigate to the root directory and edit the `.json` file. You will need to add your Groq API key to this file. If you do not have a Groq API key, you can obtain one for free. For assistance, watch the video below:
 
 [How to Get Your Groq API Key](https://youtu.be/TTG7Uo8lS1M?si=sUECTSpBJKKMsBnm)
 
