@@ -1,4 +1,4 @@
-# LinkedIn AI Chatbot🍇
+# LinkedIn AI Chatbot
 
 Welcome to the LinkedIn AI Chatbot repository! This project aims to create a conversational chatbot that helps with LinkedIn recommendations based on collaboration needs, organizes databases, and assists with user acquisition.
 
