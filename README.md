@@ -34,6 +34,9 @@ streamlit run main.py
 
 This command will launch the Streamlit server, and the chatbot interface will open in your default web browser.
 
+![Screenshot 2024-10-10 124827](https://github.com/user-attachments/assets/0edf76d4-dde0-4d4d-8e88-7f94a2e710e1)
+
+
 ## Enjoy Your LinkedIn AI Chatbot
 Follow these steps to get the LinkedIn AI Chatbot up and running on your local setup. Explore its features and functionality, and feel free to contribute or make changes!
 
